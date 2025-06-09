@@ -1,7 +1,7 @@
 # Girus Technical Coding Task Submission
 
 **Candidate:** Garlapati Chandra Karthikeya Abhi  
-**Email:** 2100030159cseh@gmail.com
+**Email:** 2100030159cseh@gmail.com  
 **Submission Date:** June 9, 2025  
 **Language:** Java  
 **IDE Used:** Visual Studio Code  
